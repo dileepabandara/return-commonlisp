@@ -12,7 +12,7 @@
 
 ## ✨ About
 
-This **return-commonlisp** repository includes the commonlisp beginner level lessons that I have covered so far. Everyone is welcome to learn and share these codes. **This project has been developed as an open source project for educational purposes.**
+This **return-commonlisp** repository includes the CommonLisp beginner level lessons that I have covered so far. Everyone is welcome to learn and share these codes. **This project has been developed as an open source project for educational purposes.**
 
 ## 🍃 How to Setup
 
